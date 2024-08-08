@@ -1,13 +1,8 @@
-<p>-👋Hi, I'm Mohamed Gamal</p>
-<p>-I'm Front-End Developer</p>
-<p>-I have passion for web development</p>
-<p>-I have experience in html and css</p>
-<p>-I know basics of javascript</p>
-<p>-I can deal with Github</p>
-<p>-I studies C++ course</p>
-<p>-To reach me, contact "mohamedgamal67082@gmail.com"</p>
-<p>-Whatsapp: 01203993636</p>
-
-
-
-
+-👋Hi, I'm Mohamed Gamal<br>
+-I'm Front-End Developer<br>
+-I have passion for web development<br>
+-I have experience in html and css
+-I know basics of javascript<br>
+-I can deal with Github<br>
+-I studies C++ course</To reach me, contact "mohamedgamal67082@gmail.com"<br>
+-Whatsapp: 01203993636
