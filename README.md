@@ -4,5 +4,6 @@
 -I have experience in html and css<br>
 -I know basics of javascript<br>
 -I can deal with Github<br>
--I studies C++ course</To reach me, contact "mohamedgamal67082@gmail.com"<br>
+-I studies C++ course<br>
+-To reach me, contact "mohamedgamal67082@gmail.com"<br>
 -Whatsapp: 01203993636
