@@ -1,16 +1,13 @@
-## Hi there 👋
+-👋Hi, I'm Mohamed Gamal
+-I'm Front-End Developer
+-I have passion for web development
+-I have experience in html and css
+-I know basics of javascript
+-I can deal with Github
+-I studies C++ course
+-To reach me, contact "mohamedgamal67082@gmail.com"
+-Whatsapp: 01203993636
 
-<!--
-**mohamedgamal539/mohamedgamal539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
