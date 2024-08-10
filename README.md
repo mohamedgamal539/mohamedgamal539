@@ -1,9 +1,10 @@
 -👋Hi, I'm Mohamed Gamal<br>
--I'm Front-End Developer<br>
--I have passion for web development<br>
--I have experience in html and css<br>
--I know basics of javascript<br>
--I can deal with Github<br>
--I studies C++ course<br>
+-Front-End Developer<br>
+-have passion for web development<br>
+-have experience in html and css<br>
+-can design website or personal portfolio or landing page with html and css<br>
+-know basics of javascript<br>
+-can deal with Github<br>
+-studied C++ course<br>
 -To reach me, contact "mohamedgamal67082@gmail.com"<br>
 -Whatsapp: 01203993636
